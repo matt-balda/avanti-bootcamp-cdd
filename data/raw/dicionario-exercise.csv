@@ -1,7 +1,0 @@
-"",variavel,descricao,tipo,subtipo
-0,Unnamed: 0,Descrição não fornecida,quantitativa,discreta
-1,id,Identificação do sujeito,quantitativa,discreta
-2,diet,Tipo de dieta,qualitativa,nominal
-3,pulse,Pulso do sujeito,quantitativa,contínua
-4,time,Tempo de medição,qualitativa,ordinal
-5,kind,Tipo de atividade física,qualitativa,nominal
