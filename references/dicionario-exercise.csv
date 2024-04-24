@@ -1,6 +1,0 @@
-variavel,descricao,tipo,subtipo
-id,Identificação do sujeito através do id (identifier),quantitativa,discreta
-diet,"Tipo de dieta: baixo teor de gordura (low fat), sem gordura (no fat)",qualitativa,nominal
-pulse,Número que representa a pulsação do sujeito,quantitativa,contínua
-time,Tempo de medição em minutos (min),quantitativa,contínua
-kind,"Tipo de atividade física: descansar (rest), caminhando (walking), correndo (running)",qualitativa,nominal
