@@ -1,6 +1,9 @@
-site_name: Nome do projeto
+site_name: Exercise
 plugins:
   - search
+nav:
+  - Home: index.md
+  - About: about.md
 
 theme:
   name: material
@@ -53,5 +56,5 @@ extra_css:
   - assets/css/tables.css
 
 # Repository
-repo_name: omadson/project-template
-repo_url: https://github.com/omadson/project-template
+repo_name: matt-balda/avanti-bootcamp-cdd
+repo_url: https://github.com/matt-balda/avanti-bootcamp-cdd
