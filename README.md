@@ -1,4 +1,7 @@
 # `<Conjunto de dados de exercise>`
+<p align="center">
+  <img src="https://github.com/matt-balda/avanti-bootcamp-cdd/assets/94808306/ceef18cb-e425-4f8b-84fa-82642b53c419" alt="output-onlinepngtools" width="600" height="300"/>
+</p>
 
 ### Contexto
 
