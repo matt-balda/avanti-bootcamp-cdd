@@ -1,4 +1,5 @@
 # `<Conjunto de dados de exercise>`
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04ce011c-a1fd-4085-a2db-e7d2ab4aaf9e/deploy-status)](https://app.netlify.com/sites/dainty-froyo-9ce610/deploys)
 <p align="center">
   <img src="https://github.com/matt-balda/avanti-bootcamp-cdd/assets/94808306/ceef18cb-e425-4f8b-84fa-82642b53c419" alt="output-onlinepngtools" width="600" height="300"/>
 </p>
