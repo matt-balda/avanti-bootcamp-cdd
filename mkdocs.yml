@@ -3,7 +3,9 @@ plugins:
   - search
 nav:
   - Home: index.md
-  - About: about.md
+  - Dados: data.md
+  - Insights: insight.md
+  - Execução: code.md
 
 theme:
   name: material

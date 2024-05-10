@@ -18,7 +18,7 @@ Um grupo de pessoas é levado e colocado em um experimento. O objetivo deste exp
 
 ### Justificativa
 
-Trabalhar com a metodologia CRISP-DM no conjunto de dados, usar aprendizado supervisionado para classificar um tipo de atividade `kind`
+Trabalhar com a metodologia CRISP-DM no conjunto de dados, usar aprendizado supervisionado para classificar o tipo de dieta `diet`
 
 ### Graphical abstract
 
@@ -28,22 +28,15 @@ Trabalhar com a metodologia CRISP-DM no conjunto de dados, usar aprendizado supe
 
 - [Mateus Balda Mota](https://github.com/matt-balda)
 
-## Funcionalidades
-
-Essa template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), a template tem as seguintes características:
-
-- Utilização do arquivo `pyproject.toml` como centralizador de dependências;
-- Configuração para criação de aplicação `streamlit`;
-- Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
-- Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
-
 ## Instruções
 
 ### Requisitos
 
-- git
-- Python 3.10.*
-- Poetry `1.1.13` ou superior
+| Ferramenta | Versão          |
+|------------|-----------------|
+| Git        | -               |
+| Python     | 3.10.*          |
+| Poetry     | `1.1.13` ou superior |
 
 É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
 
@@ -66,7 +59,6 @@ Ativar o ambiente virtual criado pelo Poetry utilizando o comando:
 ```
 poetry shell
 ```
-
 
 ### Organização de diretórios
 
