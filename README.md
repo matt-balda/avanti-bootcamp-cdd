@@ -22,10 +22,6 @@ Um grupo de pessoas é levado e colocado em um experimento. O objetivo deste exp
 
 Trabalhar com a metodologia CRISP-DM no conjunto de dados, usar aprendizado supervisionado para classificar o tipo de dieta `diet`
 
-### Graphical abstract
-
-[ ]  É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
-
 ## Desenvolvedor
 
 - [Mateus Balda Mota](https://github.com/matt-balda)
