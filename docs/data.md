@@ -28,6 +28,4 @@ Colunas presente no conjunto de dados:
 | time      | O tempo em minutos que o voluntário gastou realizando a atividade física                                                      | quantitativa | discreta  |
 | kind      | O tipo de atividade física realizada pelo voluntário. Pode ser 'rest' (repouso), 'walking' (caminhada) ou 'running' (corrida) | qualitativa  | nominal   |
 
----
-  - São 5 variáveis, com 2 qualitativas nominais, 2 quantitativas discretas, 1 quantitativa contínua
----
+São 5 variáveis, com 2 qualitativas nominais, 2 quantitativas discretas, 1 quantitativa contínua

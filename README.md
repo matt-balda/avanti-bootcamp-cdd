@@ -1,5 +1,7 @@
 # `<Conjunto de dados de exercise>`
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/04ce011c-a1fd-4085-a2db-e7d2ab4aaf9e/deploy-status)](https://app.netlify.com/sites/dainty-froyo-9ce610/deploys)
+
 <p align="center">
   <img src="https://github.com/matt-balda/avanti-bootcamp-cdd/assets/94808306/ceef18cb-e425-4f8b-84fa-82642b53c419" alt="output-onlinepngtools" width="600" height="300"/>
 </p>
@@ -11,7 +13,7 @@ Um grupo de pessoas é levado e colocado em um experimento. O objetivo deste exp
 ### Progresso
 
 1. Análise exploratória do conjunto de dados
-2. Tratamento de dados discrepantes e outliers
+2. Tratamento de dados faltantes e discrepantes
 3. Normalização/transformação de dados
 4. Separação de variáveis previsoras e classe
 5. Aprendizado de máquina e treinamento
@@ -32,10 +34,10 @@ Trabalhar com a metodologia CRISP-DM no conjunto de dados, usar aprendizado supe
 
 ### Requisitos
 
-| Ferramenta | Versão          |
-|------------|-----------------|
-| Git        | -               |
-| Python     | 3.10.*          |
+| Ferramenta | Versão                |
+| ---------- | ---------------------- |
+| Git        | -                      |
+| Python     | 3.10.*                 |
 | Poetry     | `1.1.13` ou superior |
 
 É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
